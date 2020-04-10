@@ -1,2 +1,5 @@
+screenshots/*
+test/cases/stub
 node_modules
 env.json
+*.xlsx
